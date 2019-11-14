@@ -16,9 +16,9 @@ I used both MatLab and Python to achieve my results for this project.  The goal 
 
 ### Process
 -  Take Images
--  Segment into P vs. NP
+-  Segment into P vs. NP
 -  Find circles
-    -  The number in each segment and the radius of each circle
+    -  The number in each segment and the radius of each circle
 -  K-means Algorithm to classify coins by radius
     -  Clustering algorithm
     -  Group and use a dot-product to return the total
